@@ -1,0 +1,8 @@
+uuid: a28a7b50-d6c9-4f3f-a01c-5eb8bf0670d5
+langcode: en
+status: true
+dependencies: {  }
+name: Gyms
+vid: gyms
+description: ''
+weight: 0

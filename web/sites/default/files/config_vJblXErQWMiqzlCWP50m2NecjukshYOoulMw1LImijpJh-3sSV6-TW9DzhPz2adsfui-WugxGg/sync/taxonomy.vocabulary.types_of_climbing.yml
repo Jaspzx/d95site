@@ -1,0 +1,8 @@
+uuid: f2c22fdc-890a-43c4-896a-cdedac1e6eb0
+langcode: en
+status: true
+dependencies: {  }
+name: 'Types of Climbing'
+vid: types_of_climbing
+description: ''
+weight: 0

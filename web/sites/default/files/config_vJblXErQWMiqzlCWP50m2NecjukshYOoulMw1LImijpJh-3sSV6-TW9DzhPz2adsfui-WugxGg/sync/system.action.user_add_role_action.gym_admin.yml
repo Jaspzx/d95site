@@ -1,0 +1,14 @@
+uuid: 7e5bc816-8d2e-4e93-b137-cf639ce81cb6
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.gym_admin
+  module:
+    - user
+id: user_add_role_action.gym_admin
+label: 'Add the Gym Admin role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: gym_admin
